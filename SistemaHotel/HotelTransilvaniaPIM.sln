@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelTransilvania", "HotelTransilvania\HotelTransilvania.csproj", "{4EAA1ED6-27BC-4912-B65B-41012BBC3A2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelTransilvania", "sistemaDesktopHotel\HotelTransilvania.csproj", "{4EAA1ED6-27BC-4912-B65B-41012BBC3A2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8B000831-56EA-44A7-B825-AD2DF65A5D64}
+		SolutionGuid = {61E02E73-4218-4413-8609-795C76EFEEEF}
 	EndGlobalSection
 EndGlobal
